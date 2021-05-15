@@ -1,3 +1,5 @@
+## Projeto
+
 <img src="https://i.imgur.com/s3QgA5g.png" alt="Imagem">
 
 > O programa resume-se em um desafio da faculdade, o intuito era criar um programa de cálculo para filmes.
@@ -12,7 +14,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <IDES>
 
-Para instalar a <IDE>, siga estas etapas:
+Para instalar a IDE, siga estas etapas:
 
 Linux, macOS ou Windows:
 ```
